@@ -1,7 +1,10 @@
 ### PyCharm ###
 
 # .idea folders
-*/.idea
+*.idea
 
 # Environment
 */venv/
+
+# backup/lock/trash files
+*~lock.*
