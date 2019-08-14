@@ -1,0 +1,7 @@
+### PyCharm ###
+
+# .idea folders
+*/.idea
+
+# Environment
+*/venv/
