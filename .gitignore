@@ -5,6 +5,27 @@
 
 # Environment
 */venv/
+*.ipynb_*
+src/__pycache__/
 
 # backup/lock/trash files
 *~lock.*
+
+# tex files
+paper/*.tex
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.gz
+paper/*.toc
+paper/*.bib
+
+# test files
+src/analysis.py
+src/test.py
+src/analysis.ipynb
+
+# swap files
+*.swp
